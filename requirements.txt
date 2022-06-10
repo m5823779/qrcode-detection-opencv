@@ -1,0 +1,4 @@
+opencv_python
+mss==6.1.0
+screeninfo==0.8
+
